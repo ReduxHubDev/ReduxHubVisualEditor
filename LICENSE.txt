@@ -1,0 +1,18 @@
+ReduxHub Visual Editor
+Copyright (c) 2026 ReduxHub. All rights reserved.
+
+The program is free to download and use for personal, non-commercial purposes.
+You may not sell it, redistribute modified copies, decompile or reverse engineer it,
+except where such restriction is prohibited by applicable law.
+
+The program is provided "as is", without warranty of any kind. Use at your own risk.
+Third-party components are licensed under their own terms, see THIRD_PARTY.md.
+
+Grand Theft Auto V is a trademark of Take-Two Interactive Software, Inc.
+This project is not affiliated with or endorsed by Take-Two Interactive or Rockstar Games.
+
+---
+
+Программа бесплатна для личного некоммерческого использования. Запрещено продавать её,
+распространять изменённые копии, декомпилировать и дизассемблировать, кроме случаев,
+когда такой запрет не допускается законом. Программа предоставляется «как есть», без гарантий.
